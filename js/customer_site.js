@@ -1,7 +1,11 @@
 const CUSTOMER_SITES = {
     qiqi: {
+        api: 'https://json.heimuer.xyz/api.php/provide/vod',
+        name: '黑木耳',
+    }
+    dianying: {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
-        name: '七七资源',
+        name: '电影天堂',
     }
 };
 
